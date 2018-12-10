@@ -18,7 +18,7 @@ Equip yourself with the skills required to create modern, progressive web applic
 ### Hardware requirements
 For an optimal student experience, we recommend the following hardware configuration:
 * Processor: Intel Core i5 or equivalent
-* Memory: 4GB RAM
+* Memory: 4 GB RAM
 * Storage: 35 GB available space
 
 ### Software requirements
